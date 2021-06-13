@@ -55,3 +55,18 @@ Curso: Construindo uma aplicação comercial utilizando a linguagem de programa�
 Curso de linguagem de programação php para ambientes web (2015) - Carga horária: 32 horas.
 Curso de linguagem de programação php para ambientes web - com orientação a objetos (2015) - Carga horária: 32 horas.
 Curso de programação em banco de dados (2015) - Carga horária: 28 horas.
+
+Conhecimentos
+
+Desenvolvedor de jogos desde 2020
+    Jogo publicado na Steam: https://store.steampowered.com/app/1205540/Shmup_Arena/
+
+Desenvolvedor intermediário na game engine Unity 3D
+
+Conhecimento intermediário nas linguagens de programação: 
+    C#, Python
+
+Conhecimento básico nas linguagens de programação:
+    javascript, java
+    
+Desenvolvedor iniciante em React Native 
