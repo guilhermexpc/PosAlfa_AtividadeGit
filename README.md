@@ -21,5 +21,37 @@ Cursando Residência técnica em Gestão Pública - Universidade Estadual de Pon
 Graduado em Sistemas de Informação UNIPAR - Umuarama/PR 
 	Ano de conclusão: 2018
 
+Experiência Profissional
 
+Empresa: SEFA
+    Duração: Setembro 2020 - Até hoje
+        Cargo: Residente em gestão pública
 
+Empresa: MS1 SISTEMAS
+    Duração: Março 2016 - Março 2019
+    Cargo: Programador
+    Função: Desenvolvedor Delphi de aplicações para desktop e aplicativos móveis em React Native
+
+Empresa: Guarda Mirim Umuarama
+    Duração: 20 horas
+    Função: Professor de Excel
+
+Empresa: WINSITE
+    Duração:1 mês
+    Cargo: Freelancer
+    Função: Web Designer de e-commerce
+
+Empresa: Instituto Nossa Senhora Aparecida
+    Duração: 6 meses
+    Cargo: Técnico de manutenção em informática
+
+Empresa: Universidade Paranaense
+    Duração: 2 Sábados
+    Função: Professor do curso extracurricular de desenvolvimento de jogos UNITY 5
+
+Cursos/Qualificações
+
+Curso: Construindo uma aplicação comercial utilizando a linguagem de programação java para ambientes desktop (2016) - Carga horária: 56 horas.
+Curso de linguagem de programação php para ambientes web (2015) - Carga horária: 32 horas.
+Curso de linguagem de programação php para ambientes web - com orientação a objetos (2015) - Carga horária: 32 horas.
+Curso de programação em banco de dados (2015) - Carga horária: 28 horas.
