@@ -24,3 +24,12 @@ Graduado em Sistemas de Informação UNIPAR - Umuarama/PR
 Projetos Pessoais
 
 Criação de site pessoal para portfólio (em andamento)
+
+Redes sociais e Informações adicionais
+Pessoal:
+Facebook: https://www.facebook.com/guilherme.campos.750
+Twitter: https://twitter.com/GuilhermeXPC
+Revox Games: 
+Facebook: https://www.facebook.com/RevoxGames
+Twitter: https://twitter.com/RevoxGames
+Shmup Arena: https://store.steampowered.com/app/1205540/Shmup_Arena/
