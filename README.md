@@ -21,5 +21,6 @@ Cursando Residência técnica em Gestão Pública - Universidade Estadual de Pon
 Graduado em Sistemas de Informação UNIPAR - Umuarama/PR 
 	Ano de conclusão: 2018
 
+Projetos Pessoais
 
-
+Criação de site pessoal para portfólio (em andamento)
