@@ -28,8 +28,9 @@
 ***
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Linkedin](https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/<GuilhermeXPC>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GuilhermeXPC)
 [![Linkedin](https://img.shields.io/badge/Revox%20Games-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/36621295)
+[![Linkedin](https://img.shields.io/badge/<Revox%20Games>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RevoxGames)
 
 ## 🎓 Formação Acadêmica
 
@@ -80,27 +81,9 @@
 - Curso de linguagem de programação php para ambientes web - com orientação a objetos (2015) - Carga horária: 32 horas.
 - Curso de programação em banco de dados (2015) - Carga horária: 28 horas.
 
-:hearts: Mais sobre
-#### 🎮 Shmup Arena: https://store.steampowered.com/app/1205540/Shmup_Arena/
+## :trophy: Conquistas :trophy:
+### 🎮 Jogos Lançados
+#### **Shmup Arena**: https://store.steampowered.com/app/1205540/Shmup_Arena/
+> Jogo desenvolvido de nave desafiador e frenético: Sobreviva a diversas horadas de inimigos e chefes poderosos <br/>
+> Desenvolvido na Unity 3D, lançado na plataforma Steam
 
-Desenvolvedor intermediário na game engine Unity 3D
-
-Conhecimento intermediário nas linguagens de programação: 
-    C#, Python
-
-Conhecimento básico nas linguagens de programação:
-    javascript, java
-    
-Desenvolvedor iniciante em React Native 
-Projetos Pessoais
-
-Criação de site pessoal para portfólio (em andamento)
-
-Redes sociais e Informações adicionais
-Pessoal:
-Facebook: https://www.facebook.com/guilherme.campos.750
-Twitter: https://twitter.com/GuilhermeXPC
-Revox Games: 
-Facebook: https://www.facebook.com/RevoxGames
-Twitter: https://twitter.com/RevoxGames
-Shmup Arena: https://store.steampowered.com/app/1205540/Shmup_Arena/
