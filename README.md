@@ -8,6 +8,9 @@
 - :briefcase: Residente Técnico na  Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
 - :books: Cursando Pós graduação em **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
 
+<h3> :white_check_mark: &nbsp;Skills </h3>
+
+![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 Dados pessoais
 
