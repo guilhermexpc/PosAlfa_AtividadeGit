@@ -3,8 +3,8 @@
 
 ## :robot: &nbsp; Sobre mim 
 
-- :computer: &nbsp; Desenvolvedor Mobile
-- :video_game: &nbsp; Desenvolvedor Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
+- :computer: Desenvolvedor Mobile
+- :video_game: Desenvolvedor Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
 - :briefcase: Residente Técnico na  Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
 - :books: Cursando Pós graduação em **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
 
@@ -50,7 +50,7 @@
 ## :briefcase: Experiência Profissional
 
 #### Secretaria de Estado da Fazenda SEFA
-> Cargo: Residente em gestão pública <br/>
+> Cargo: Residente em Gestão pública <br/>
 > Duração: Setembro 2020 - Até hoje 
 
 #### MS1 SISTEMAS
