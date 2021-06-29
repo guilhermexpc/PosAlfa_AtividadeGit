@@ -26,60 +26,53 @@
 >![Unity](https://img.shields.io/badge/-Unity-373737?style=flat&logo=unity&labelColor=373737&color=026F9A)
 [![Steam](https://img.shields.io/badge/-Steam%20Dev-373737?style=flat&logo=steam&labelColor=373737&color=026F9A)](https://store.steampowered.com/curator/36621295)
 ***
-&nbsp;
-
-&nbsp;
-
 ## Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/<Twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
+[![Linkedin](https://img.shields.io/badge/Revox%20Games-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/36621295)
 
+## 🎓 Formação Acadêmica
 
+#### Desenvolvimento de Aplicações para Web e Dispositivos Móveis - Umuarama/PR
+> Modalidade: Remoto <br/>
+> Status: Cursando <br/>
+> Prévia de conclusão: 2022
 
+#### Residência técnica em Gestão Pública - **Universidade Estadual de Ponta Grossa**
+> Modalidade: Remoto <br/>
+> Status: Cursando <br/>
+> Prévia de conclusão: Março de 2022
 
-Dados pessoais
+#### Graduado em Sistemas de Informação UNIPAR - Umuarama/PR 
+> Ano de conclusão: 2018
 
-Brasileiro, solteiro, 28 anos
-Rua Cambé número 4496, Umuarama-PR
-Telefone: (44) 99730-8886 / (44) 998091873
-E-mail: guilhermee1219@gmail.com
+## :briefcase: Experiência Profissional
 
-Formação Acadêmica
+#### Secretaria de Estado da Fazenda SEFA
+> Cargo: Residente em gestão pública <br/>
+> Duração: Setembro 2020 - Até hoje 
 
-Cursando Web Dev - Desenvolvimento de Aplicações para Web e Dispositivos Móveis - Umuarama/PR
-	Prévia de conclusão: 2022
+#### MS1 SISTEMAS
+> Cargo: Programador Junior <br/>
+> Função: Desenvolvedor Delphi de aplicações para desktop e aplicativos móveis em React Native> <br/>
+> Duração: Março 2016 - Março 2019
 
-Cursando Residência técnica em Gestão Pública - Universidade Estadual de Ponta Grossa
-	Prévia de conclusão: Março de 2022
+#### Guarda Mirim Umuarama
+> Função: Professor de Excel <br/>
+> Duração: 20 horas 
 
-Graduado em Sistemas de Informação UNIPAR - Umuarama/PR 
-	Ano de conclusão: 2018
+#### WINSITE
+> Cargo: Freelancer <br/>
+> Função: Web Designer de e-commerce <br/>
+> Duração:1 mês
 
-Experiência Profissional
+#### Instituto Nossa Senhora Aparecida
+> Cargo: Técnico de manutenção em informática <br/>
+> Duração: 6 meses
 
-Empresa: SEFA
-    Duração: Setembro 2020 - Até hoje
-        Cargo: Residente em gestão pública
-
-Empresa: MS1 SISTEMAS
-    Duração: Março 2016 - Março 2019
-    Cargo: Programador
-    Função: Desenvolvedor Delphi de aplicações para desktop e aplicativos móveis em React Native
-
-Empresa: Guarda Mirim Umuarama
-    Duração: 20 horas
-    Função: Professor de Excel
-
-Empresa: WINSITE
-    Duração:1 mês
-    Cargo: Freelancer
-    Função: Web Designer de e-commerce
-
-Empresa: Instituto Nossa Senhora Aparecida
-    Duração: 6 meses
-    Cargo: Técnico de manutenção em informática
-
-Empresa: Universidade Paranaense
-    Duração: 2 Sábados
-    Função: Professor do curso extracurricular de desenvolvimento de jogos UNITY 5
+#### Universidade Paranaense
+> Função: Professor do curso extracurricular de desenvolvimento de jogos UNITY 5  <br/>
+> Duração: 2 Sábados
 
 Cursos/Qualificações
 
