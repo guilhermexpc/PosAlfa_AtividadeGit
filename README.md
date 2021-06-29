@@ -1,7 +1,13 @@
-# PosAlfa_AtividadeGit
-Atividade da Pos Web Alfa Ferramenta de Versionamento Git GitHub
+![](https://komarev.com/ghpvc/?username=guilhermexpc&color=006bed)
+# :space_invader: Guilherme Pereira Campos :space_invader:
 
-Curriculum Vitae
+<h3> :robot: &nbsp; Sobre mim </h3>
+
+- :computer: &nbsp; Desenvolvedor Mobile
+- :video_game: &nbsp; Desenvolvedor Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
+- :briefcase: Residente Técnico na  Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
+- :books: Cursando Pós graduação em **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
+
 
 Dados pessoais
 
