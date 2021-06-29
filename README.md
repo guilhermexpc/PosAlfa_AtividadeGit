@@ -26,6 +26,12 @@
 >![Unity](https://img.shields.io/badge/-Unity-373737?style=flat&logo=unity&labelColor=373737&color=026F9A)
 [![Steam](https://img.shields.io/badge/-Steam%20Dev-373737?style=flat&logo=steam&labelColor=373737&color=026F9A)](https://store.steampowered.com/curator/36621295)
 ***
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=guilhermexpc&theme=react)
+  
+</div>
+
 ## Onde me encontrar
 <div align="center">
 
@@ -35,6 +41,7 @@
 [![Linkedin](https://img.shields.io/badge/<Revox%20Games>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RevoxGames)
 
 </div>
+  
 ## 🎓 Formação Acadêmica
 
 #### Desenvolvimento de Aplicações para Web e Dispositivos Móveis - Umuarama/PR
