@@ -1,16 +1,39 @@
 ![](https://komarev.com/ghpvc/?username=guilhermexpc&color=006bed)
 # :space_invader: Guilherme Pereira Campos :space_invader:
 
-<h3> :robot: &nbsp; Sobre mim </h3>
+## :robot: &nbsp; Sobre mim 
 
 - :computer: &nbsp; Desenvolvedor Mobile
 - :video_game: &nbsp; Desenvolvedor Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
 - :briefcase: Residente Técnico na  Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
 - :books: Cursando Pós graduação em **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
 
-<h3> :white_check_mark: &nbsp;Skills </h3>
+## :white_check_mark: &nbsp;Skills
 
-![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+>![C#](https://img.shields.io/badge/-CSharp-373737?style=flat&logo=csharp&labelColor=373737&color=026F9A)
+![Python](https://img.shields.io/badge/-Python-373737?style=flat&logo=python&logoColor=white&labelColor=373737&color=026F9A)
+![Delphi](https://img.shields.io/badge/-Delphi-373737?style=flat&logo=delphi&logoColor=white&labelColor=373737&color=026F9A)
+>
+>![HTML5](https://img.shields.io/badge/-HTML5-373737?style=flat&logo=HTML5&labelColor=373737&color=026F9A)
+![CSS](https://img.shields.io/badge/-CSS-373737?style=flat&logo=CSS3&labelColor=373737&color=026F9A&logoColor=00A5E7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333737373333?style=flat&logo=javascript&labelColor=373737&color=026F9A)
+>
+>![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-373737?style=flat&logo=visual-studio-code&labelColor=373737&color=026F9A)
+>![Visual Studio Code](https://img.shields.io/badge/-Pycharm-373737?style=flat&logo=pycharm&labelColor=373737&color=026F9A)
+![Figma](https://img.shields.io/badge/-Figma-373737?style=flat&logo=figma&labelColor=373737&color=026F9A)
+![GitHub](https://img.shields.io/badge/-GitHub-373737?style=flat&logo=github&labelColor=373737&color=026F9A)
+>
+>![Unity](https://img.shields.io/badge/-Unity-373737?style=flat&logo=unity&labelColor=373737&color=026F9A)
+[![Steam](https://img.shields.io/badge/-Steam%20Dev-373737?style=flat&logo=steam&labelColor=373737&color=026F9A)](https://store.steampowered.com/curator/36621295)
+***
+&nbsp;
+
+&nbsp;
+
+## Onde me encontrar
+
+
+
 
 Dados pessoais
 
